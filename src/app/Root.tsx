@@ -174,7 +174,7 @@ export default function Root() {
           <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-14">
             <div>
               <div
-                className="text-2xl font-black tracking-tighter text-primary mb-3"
+                className="text-2xl font-black tracking-wide text-primary mb-3"
                 style={{ fontFamily: "'Barlow Condensed', sans-serif" }}
               >
                 HYPERION
@@ -209,7 +209,7 @@ export default function Root() {
           </div>
           <div className="border-t border-border pt-8 flex flex-col md:flex-row items-start md:items-center justify-between gap-4">
             <div className="text-xs text-muted-foreground" style={{ fontFamily: "'DM Mono', monospace" }}>
-              © 2024 HYPERION TIRES S.P.A. · MILAN, ITALY
+              © 2026 HYPERION TIRES S.P.A. · MILAN, ITALY
             </div>
             <div className="flex gap-6">
               {["Privacy Policy", "Cookie Policy", "Legal Notes"].map((link) => (
